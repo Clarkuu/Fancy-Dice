@@ -1,4 +1,4 @@
-# tutorial_app
+# Fancy_Dice
 
 A new Flutter project.
 
